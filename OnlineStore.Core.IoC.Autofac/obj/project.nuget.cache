@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OeqThlZ6phRoyjorYiiv80sxSafM73tuUryll7SGbsgAhUhqfgASyUCDfGBWCTehafZ3YdEe7bp2eMj6BKUWgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Core.IoC.Autofac\\OnlineStore.Core.IoC.Autofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\рс\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

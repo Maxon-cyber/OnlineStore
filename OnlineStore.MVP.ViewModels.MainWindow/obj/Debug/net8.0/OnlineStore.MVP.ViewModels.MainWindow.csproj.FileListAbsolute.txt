@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\bin\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\bin\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\bin\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\refint\OnlineStore.MVP.ViewModels.MainWindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.ViewModels.MainWindow\obj\Debug\net8.0\ref\OnlineStore.MVP.ViewModels.MainWindow.dll

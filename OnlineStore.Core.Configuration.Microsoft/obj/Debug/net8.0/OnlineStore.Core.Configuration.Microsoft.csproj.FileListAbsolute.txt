@@ -1,0 +1,15 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\bin\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\bin\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\bin\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\bin\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\bin\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineSt.3C872069.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\refint\OnlineStore.Core.Configuration.Microsoft.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\OnlineStore.Core.Configuration.Microsoft.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Microsoft\obj\Debug\net8.0\ref\OnlineStore.Core.Configuration.Microsoft.dll

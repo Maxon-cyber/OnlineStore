@@ -1,0 +1,15 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\bin\Debug\net8.0\OnlineStore.Core.IoC.Autofac.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\bin\Debug\net8.0\OnlineStore.Core.IoC.Autofac.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\bin\Debug\net8.0\OnlineStore.Core.IoC.Autofac.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\bin\Debug\net8.0\OnlineStore.Core.IoC.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\bin\Debug\net8.0\OnlineStore.Core.IoC.Abstractions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineStore.Core.IoC.Autofac.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineStore.Core.IoC.Autofac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineStore.Core.IoC.Autofac.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineStore.Core.IoC.Autofac.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineStore.Core.IoC.Autofac.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineSt.99D5D861.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineStore.Core.IoC.Autofac.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\refint\OnlineStore.Core.IoC.Autofac.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\OnlineStore.Core.IoC.Autofac.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.IoC.Autofac\obj\Debug\net8.0\ref\OnlineStore.Core.IoC.Autofac.dll

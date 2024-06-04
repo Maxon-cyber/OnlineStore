@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineStore.Core.Configuration.Abstractions/1.0.0": {
+        "runtime": {
+          "OnlineStore.Core.Configuration.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.Core.Configuration.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

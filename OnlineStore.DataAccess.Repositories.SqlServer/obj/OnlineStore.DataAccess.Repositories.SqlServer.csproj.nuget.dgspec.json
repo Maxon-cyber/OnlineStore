@@ -1,0 +1,639 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.SqlServer\\OnlineStore.DataAccess.Repositories.SqlServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Attributes\\OnlineStore.DataAccess.Relational.Attributes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Attributes\\OnlineStore.DataAccess.Relational.Attributes.csproj",
+        "projectName": "OnlineStore.DataAccess.Relational.Attributes",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Attributes\\OnlineStore.DataAccess.Relational.Attributes.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Attributes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts.csproj",
+        "projectName": "OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer.csproj",
+        "projectName": "OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts\\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj",
+        "projectName": "OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO.csproj",
+        "projectName": "OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj",
+        "projectName": "OnlineStore.DataAccess.Relational.Models",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.Abstractions\\OnlineStore.DataAccess.Repositories.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.Abstractions\\OnlineStore.DataAccess.Repositories.Abstractions.csproj",
+        "projectName": "OnlineStore.DataAccess.Repositories.Abstractions",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.Abstractions\\OnlineStore.DataAccess.Repositories.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Models\\OnlineStore.DataAccess.Relational.Models.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.SqlServer\\OnlineStore.DataAccess.Repositories.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.SqlServer\\OnlineStore.DataAccess.Repositories.SqlServer.csproj",
+        "projectName": "OnlineStore.DataAccess.Repositories.SqlServer",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.SqlServer\\OnlineStore.DataAccess.Repositories.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer\\OnlineStore.DataAccess.Relational.Functionality.Providers.Implementations.SqlServer.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.Abstractions\\OnlineStore.DataAccess.Repositories.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Repositories.Abstractions\\OnlineStore.DataAccess.Repositories.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj",
+        "projectName": "OnlineStore.Entities",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Attributes\\OnlineStore.DataAccess.Relational.Attributes.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.DataAccess.Relational.Attributes\\OnlineStore.DataAccess.Relational.Attributes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

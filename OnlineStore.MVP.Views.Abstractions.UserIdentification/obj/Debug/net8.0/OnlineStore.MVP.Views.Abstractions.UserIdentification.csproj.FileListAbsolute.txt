@@ -1,0 +1,17 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\bin\Debug\net8.0\OnlineStore.MVP.ViewModels.UserIdentification.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.MainInterface.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\bin\Debug\net8.0\OnlineStore.MVP.ViewModels.UserIdentification.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.MainInterface.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineSt.9567814A.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\refint\OnlineStore.MVP.Views.Abstractions.UserIdentification.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.UserIdentification.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.UserIdentification\obj\Debug\net8.0\ref\OnlineStore.MVP.Views.Abstractions.UserIdentification.dll

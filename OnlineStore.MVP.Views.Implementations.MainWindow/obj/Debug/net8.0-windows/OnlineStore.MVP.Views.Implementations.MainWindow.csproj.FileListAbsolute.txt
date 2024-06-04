@@ -1,0 +1,16 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\bin\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\bin\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\bin\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.MainForm.resources
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.Sections.AccountControl.resources
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.Sections.ProductShowcaseControl.resources
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.Sections.ShoppingCartControl.resources
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.csproj.GenerateResource.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\refint\OnlineStore.MVP.Views.Implementations.MainWindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\OnlineStore.MVP.Views.Implementations.MainWindow.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Implementations.MainWindow\obj\Debug\net8.0-windows\ref\OnlineStore.MVP.Views.Implementations.MainWindow.dll

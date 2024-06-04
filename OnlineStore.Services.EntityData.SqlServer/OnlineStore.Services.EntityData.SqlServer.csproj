@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.DataAccess.Repositories.SqlServer\OnlineStore.DataAccess.Repositories.SqlServer.csproj" />
+    <ProjectReference Include="..\OnlineStore.Services.Abstractions\OnlineStore.Services.Abstractions.csproj" />
+    <ProjectReference Include="..\OnlineStore.Services.Utilities.Logger.InFile\OnlineStore.Services.Utilities.Logger.InFile.csproj" />
+  </ItemGroup>
+
+</Project>

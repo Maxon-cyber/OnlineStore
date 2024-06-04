@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HeoZM4JGZ0GRS6/7JWkc6PKJGrujdq19MN0B0CmQ2YSgVBFw1GQrTotTtQ2/BQmkG0BY3bkOCL8VdhXdYDxTGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MVP.Views.Implementations.MainWindow\\OnlineStore.MVP.Views.Implementations.MainWindow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\рс\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\рс\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

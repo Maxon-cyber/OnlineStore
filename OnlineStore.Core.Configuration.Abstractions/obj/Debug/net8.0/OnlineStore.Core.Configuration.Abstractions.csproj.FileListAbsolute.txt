@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\bin\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\bin\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\bin\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\refint\OnlineStore.Core.Configuration.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\OnlineStore.Core.Configuration.Abstractions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Core.Configuration.Abstractions\obj\Debug\net8.0\ref\OnlineStore.Core.Configuration.Abstractions.dll

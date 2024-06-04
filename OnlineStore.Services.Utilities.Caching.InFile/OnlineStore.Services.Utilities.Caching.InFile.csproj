@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.Services.Utilities.Caching.Abstractions\OnlineStore.Services.Utilities.Caching.Abstractions.csproj" />
+    <ProjectReference Include="..\OnlineStore.Services.Utilities.Caching.InFile.Support.Serializer.Yaml\OnlineStore.Services.Utilities.Caching.InFile.Support.Serializer.Yaml.csproj" />
+    <ProjectReference Include="..\OnlineStore.Services.Utilities.Templates\OnlineStore.Services.Utilities.Templates.csproj" />
+  </ItemGroup>
+
+</Project>

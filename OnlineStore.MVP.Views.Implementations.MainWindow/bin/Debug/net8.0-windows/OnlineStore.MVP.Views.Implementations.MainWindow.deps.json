@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineStore.MVP.Views.Implementations.MainWindow/1.0.0": {
+        "runtime": {
+          "OnlineStore.MVP.Views.Implementations.MainWindow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.MVP.Views.Implementations.MainWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

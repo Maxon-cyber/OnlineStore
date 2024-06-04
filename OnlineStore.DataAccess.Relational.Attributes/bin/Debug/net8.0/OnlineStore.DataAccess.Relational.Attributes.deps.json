@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineStore.DataAccess.Relational.Attributes/1.0.0": {
+        "runtime": {
+          "OnlineStore.DataAccess.Relational.Attributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.DataAccess.Relational.Attributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

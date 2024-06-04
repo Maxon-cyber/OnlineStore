@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.Core.Abstractions\OnlineStore.Core.Abstractions.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Presenters.Abstractions.Interfaces\OnlineStore.MVP.Presenters.Abstractions.Interfaces.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Views.Abstractions.MainInterface\OnlineStore.MVP.Views.Abstractions.MainInterface.csproj" />
+  </ItemGroup>
+
+</Project>

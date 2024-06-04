@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts\OnlineStore.DataAccess.Relational.Functionality.Providers.Contracts.csproj" />
+    <ProjectReference Include="..\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Implementations.ADO.csproj" />
+  </ItemGroup>
+
+</Project>

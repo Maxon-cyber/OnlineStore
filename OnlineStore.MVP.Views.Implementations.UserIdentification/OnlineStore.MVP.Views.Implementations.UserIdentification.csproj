@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.Core.Configuration.Microsoft\OnlineStore.Core.Configuration.Microsoft.csproj" />
+    <ProjectReference Include="..\OnlineStore.Core.IoC.Autofac\OnlineStore.Core.IoC.Autofac.csproj" />
+    <ProjectReference Include="..\OnlineStore.Core\OnlineStore.Core.csproj" />
+    <ProjectReference Include="..\OnlineStore.DataAccess.Relational.Models\OnlineStore.DataAccess.Relational.Models.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Presenters.Common\OnlineStore.MVP.Presenters.Common.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Presenters.MainWindow.Account\OnlineStore.MVP.Presenters.MainWindow.Account.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Presenters.MainWindow.ProductShowcase\OnlineStore.MVP.Presenters.MainWindow.ProductShowcase.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Presenters.MainWindow.ShoppingCart\OnlineStore.MVP.Presenters.MainWindow.ShoppingCart.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Presenters.MainWindow\OnlineStore.MVP.Presenters.MainWindow.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Presenters.UserIdentification\OnlineStore.MVP.Presenters.UserIdentification.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.ViewModels.Common\OnlineStore.MVP.ViewModels.Common.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Views.Abstractions.Mainwindow\OnlineStore.MVP.Views.Abstractions.Mainwindow.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Views.Abstractions.UserIdentification\OnlineStore.MVP.Views.Abstractions.UserIdentification.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Views.Implementations.MainWindow\OnlineStore.MVP.Views.Implementations.MainWindow.csproj" />
+    <ProjectReference Include="..\OnlineStore.Services.EntityData.SqlServer\OnlineStore.Services.EntityData.SqlServer.csproj" />
+    <ProjectReference Include="..\OnlineStore.Services.Utilities.Logger.InFile\OnlineStore.Services.Utilities.Logger.InFile.csproj" />
+  </ItemGroup>
+
+</Project>

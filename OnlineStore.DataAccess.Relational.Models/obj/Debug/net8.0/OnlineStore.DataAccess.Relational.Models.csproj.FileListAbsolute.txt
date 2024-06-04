@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\refint\OnlineStore.DataAccess.Relational.Models.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Models\obj\Debug\net8.0\ref\OnlineStore.DataAccess.Relational.Models.dll

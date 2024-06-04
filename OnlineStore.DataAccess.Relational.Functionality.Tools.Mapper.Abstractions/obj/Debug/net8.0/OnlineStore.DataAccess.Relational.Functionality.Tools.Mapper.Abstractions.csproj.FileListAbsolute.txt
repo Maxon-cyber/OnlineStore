@@ -1,0 +1,15 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\bin\Debug\net8.0\OnlineStore.DataAccess.Relational.Models.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineSt.A19543AC.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\refint\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions\obj\Debug\net8.0\ref\OnlineStore.DataAccess.Relational.Functionality.Tools.Mapper.Abstractions.dll

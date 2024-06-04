@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineStore.MVP.Presenters.Abstractions.Interfaces/1.0.0": {
+        "runtime": {
+          "OnlineStore.MVP.Presenters.Abstractions.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.MVP.Presenters.Abstractions.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

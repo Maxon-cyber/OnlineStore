@@ -1,0 +1,17 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\bin\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.MainInterface.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\bin\Debug\net8.0\OnlineStore.MVP.ViewModels.MainWindow.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\bin\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.MainInterface.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineSt.B5900EAC.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\refint\OnlineStore.MVP.Views.Abstractions.Mainwindow.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\OnlineStore.MVP.Views.Abstractions.Mainwindow.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MVP.Views.Abstractions.Mainwindow\obj\Debug\net8.0\ref\OnlineStore.MVP.Views.Abstractions.Mainwindow.dll

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.MVP.ViewModels.UserIdentification\OnlineStore.MVP.ViewModels.UserIdentification.csproj" />
+    <ProjectReference Include="..\OnlineStore.MVP.Views.Abstractions.MainInterface\OnlineStore.MVP.Views.Abstractions.MainInterface.csproj" />
+  </ItemGroup>
+
+</Project>
